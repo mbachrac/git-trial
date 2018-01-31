@@ -1,1 +1,2 @@
 this is my text file. no changes yet.
+now i'm making some changes for my second commit.
